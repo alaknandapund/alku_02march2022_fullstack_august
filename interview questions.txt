@@ -1,0 +1,17 @@
+Q1. What are Django URLs?
+Q2. What is the difference between a project and an app in Django?
+Q3. What are different model inheritance styles in the Django?
+Q4.What are Django Signals?
+Q5.Explain user authentication in Django?
+Q6. How to configure static files?
+Q7. Explain Django Response lifecycle?
+Q8. What's the use of a session framework?
+Q9. What’s the use of Middleware in Django?
+Q10. What is context in the Django?
+
+
+
+
+
+
+
